@@ -67,5 +67,6 @@ accuracy = accuracy_score(B_test, B_pred)
 - **Akurasi Model**: ~86%
 
 ## 🚨Link Google Colab
-[Buka di Google Colab](https://colab.research.google.com/drive/1IIlMykBL0ltWwj-dXxyZ1Ylw-NP7w9oe#scrollTo=u3GogiRE45Rz)
+[🔗 Buka di Google Colab](https://colab.research.google.com/drive/1IIlMykBL0ltWwj-dXxyZ1Ylw-NP7w9oe)
+
 
