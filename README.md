@@ -27,7 +27,8 @@ Dataset dibaca dari Google Drive menggunakan `pd.read_csv()`:
 ar = pd.read_csv('/content/drive/MyDrive/Data_Mining/DDoS UDP Flood.csv')
 ir = pd.read_csv('/content/drive/MyDrive/Data_Mining/DoS ICMP Flood.csv')
 ur = pd.read_csv('/content/drive/MyDrive/Data_Mining/MITM ARP Spoofing.csv')
-# dst...
+er = pd.read_csv("/content/drive/MyDrive/Data Mining /MQTT DoS Publish Flood.csv")
+ro = pd.read_csv("/content/drive/MyDrive/Data Mining /Recon Vulnerability Scan.csv")
 ```
 
 ### 3. **Gabungkan Dataset**
